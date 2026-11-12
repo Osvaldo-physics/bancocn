@@ -1,6 +1,6 @@
 # Banco CN — Ciências da Natureza: ENEM e Vestibulares
 
-Banco de 1.795 questões de Física, Química e Biologia:
+Banco de 1.786 questões de Física, Química e Biologia:
 - ENEM 2016–2025;
 - FUVEST, UNICAMP, UNESP e IME 2016–2026;
 - ITA 2019–2026.
